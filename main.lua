@@ -23,11 +23,13 @@ local Default = {
 	    Blacklist = "https://raw.githubusercontent.com/CF-Trail/Auto-Report/main/words/blacklisted.lua";
 	    Whitelist = "https://raw.githubusercontent.com/CF-Trail/Auto-Report/main/words/whitelisted.lua";
 	};
+	
+	isExecuted = true;
 }
 
 if not autoreport then
 	getgenv().autoreport = Default
-else
+elseif autoreport.isExecuted
 	return warn("Auto-Report is already executed!")
 end;
 
