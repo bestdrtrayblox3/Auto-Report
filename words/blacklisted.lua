@@ -42,6 +42,10 @@ return {
 		"Scamming",
 		"he's advertising hacks (viruses)"
 	},
+	scripting = {
+		"Scamming",
+		"he's advertising hacks (viruses)"
+	},
 	fatherless = {
 		"Bullying",
 		"saying bad things about my parents"
