@@ -3,15 +3,42 @@ return {
 		"Scamming",
 		"he's advertising hacks (viruses)"
 	},
+	hacking = {
+		"Scamming",
+		"he's advertising hacks (viruses)"
+	},
+	hacker = {
+		"Scamming",
+		"he's advertising hacks (viruses)"
+	},
 	cheat = {
+		"Scamming",
+		"he's advertising hacks (viruses)"		
+	},
+	cheating = {
+		"Scamming",
+		"he's advertising hacks (viruses)"
+	},
+	cheater = {
 		"Scamming",
 		"he's advertising hacks (viruses)"
 	},
 	exploit = {
 		"Scamming",
 		"he's advertising hacks (viruses)"
+	exploiting = {
+		"Scamming",
+		"he's advertising hacks (viruses)"
+	},
+	exploiter = {
+		"Scamming",
+		"he's advertising hacks (viruses)"
 	},
 	script = {
+		"Scamming",
+		"he's advertising hacks (viruses)"
+	},
+	scripts = {
 		"Scamming",
 		"he's advertising hacks (viruses)"
 	},
@@ -47,7 +74,7 @@ return {
 		"Bullying",
 		"saying rude things to me, i can't take it anymore, i've had a really bad year"
 	},
-	["get a life"] = {
+	get a life = {
 		"Bullying",
 		"saying rude things to me, i can't take it anymore, i've had a really bad year"
 	},
@@ -135,7 +162,7 @@ return {
 		"Bullying",
 		"this is really mean! i've had a really bad year, my dog passed out and i just can't take it anymore!"
 	},
-	["skill issue"] = {
+	skill issue = {
 		"Bullying",
 		"this is really mean! i've had a really bad year, my dog passed out and i just can't take it anymore!"
 	},
@@ -163,7 +190,7 @@ return {
 		"Dating",
 		"he's dating in roblox"
 	},
-	["like you"] = {
+	like you = {
 		"Dating",
 		"he's dating in roblox"
 	},
