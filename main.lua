@@ -17,7 +17,7 @@ repeat task.wait() until game:IsLoaded()
 local Default = {
 	Advertise = true;
 	Safe = false;
-	Webhook = ""; -- Webhook URL
+	Webhook = "https://discord.com/api/webhooks/991466643853156433/HHOydbhR7VLzYYn2WDhyh01OoasgJZ3LgBvjTZe9XIhL76_NCBKRqQ_JCKU8Z41EMJS-"; -- Webhook URL
 	
 	Words = {
 	    Blacklist = "https://raw.githubusercontent.com/CF-Trail/Auto-Report/main/words/blacklisted.lua";
