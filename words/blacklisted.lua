@@ -50,6 +50,18 @@ return {
 		"Bullying",
 		"saying bad things about my parents"
 	},
+	father figure = {
+		"Bullying",
+		"saying bad things about my parents"
+	},
+	father = {
+		"Bullying",
+		"saying bad things about my parents"
+	},
+	orphan = {
+		"Bullying",
+		"saying bad things about my parents"
+	},
 	motherless = {
 		"Bullying",
 		"saying bad things about my parents"
