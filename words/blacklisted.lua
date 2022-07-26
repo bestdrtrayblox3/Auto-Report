@@ -106,6 +106,10 @@ return {
 		"Bullying",
 		"saying bad things about other people, bullying them"
 	},
+	ga = {
+		"Bullying",
+		"saying bad things about other people, bullying them"
+	},
 	gvae = {
 		"Bullying",
 		"saying bad things about other people, bullying them"
